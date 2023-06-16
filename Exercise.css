@@ -1,0 +1,32 @@
+.nav{
+    text-decoration: none;
+    background: #acdc;
+    font-size: 15px;
+    padding: 40px;
+    width: 100%;
+    border: 20px;
+    margin: 15px;
+    padding: 20px;
+    
+}
+li{
+    display: inline;
+    margin: 50px;
+}
+a{
+    text-decoration: none;
+    border: 30px;
+    border: 20px;
+    margin: 15px;
+    padding: 20px;
+}
+a:hover{
+    background: black;
+    border-radius: 3px;
+    
+    position: relative;
+    color: white;
+}
+p{
+    float: right;
+}
